@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pfIconBg",
+    "texture": "98R5rMLyZA1oBPcuCuW4mM",
+    "rect": [
+      0,
+      0,
+      307,
+      372
+    ],
+    "offset": [
+      -2.5,
+      0
+    ],
+    "originalSize": [
+      312,
+      372
+    ]
+  }
+}

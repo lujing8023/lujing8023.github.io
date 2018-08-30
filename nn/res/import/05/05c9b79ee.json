@@ -1,0 +1,103 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "PbGoldActionLayer",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "ndGoldActionLayerContainer",
+      "_children": [
+        {
+          "__id__": 2
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "6ff75s9hidIEouvZrs7A3eb",
+          "node": {
+            "__id__": 1
+          },
+          "ndGoldItem": {
+            "__id__": 2
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "1cm0IHK8xIT6rFBLVXI82a"
+        },
+        "fileId": "2arT1+TeJMs4cWMDzRJcxu"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "gold",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "2222Jq7xRK8LLOIC4fqdF2"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "1cm0IHK8xIT6rFBLVXI82a"
+        },
+        "fileId": "3e2YrroyxFUKG5iBZ86/AP"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 63,
+        "height": 65
+      },
+      "_scaleX": 0.7,
+      "_scaleY": 0.7,
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 1,
+        "y": -9
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "money_1",
+      "texture": "1bj9Ch/u9Cv420TvgiDrZ9",
+      "rect": [
+        0,
+        0,
+        63,
+        65
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        63,
+        65
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font1",
+    "texture": "caE8CAoURJu70Y3Kxr6YI4",
+    "rect": [
+      0,
+      0,
+      536,
+      550
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      536,
+      550
+    ]
+  }
+}
